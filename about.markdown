@@ -1,18 +1,15 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is James Vavrik and I solve difficult problems for companies using technology. My bread and butter stack is .NET and Azure, but I don't shy away from the challenge of learning something new.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+When I'm not building solutions, I'm either cooking, playing games with my son, or taking our [Golden/Shepher mix pup Zelda](https://www.instagram.com/zeldavavrik/) on hike.
 
+**Difficult Problems**
 
-[jekyll-organization]: https://github.com/jekyll
+Difficult problems aren't just tricky algorithms, they're also about how to solve business problems through technology. It's about creating a solution that helps a business run more effeciently, economically, and agilely.

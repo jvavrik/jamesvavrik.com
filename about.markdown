@@ -8,7 +8,7 @@ author_profile: true
 
 My name is James Vavrik and I solve difficult problems for companies using technology. My bread and butter stack is .NET and Azure, but I don't shy away from the challenge of learning something new.
 
-When I'm not building solutions, I'm either cooking, playing games with my son, or taking our [Golden/Shepher mix pup Zelda](https://www.instagram.com/zeldavavrik/) on hike.
+When I'm not building solutions, I'm either cooking, playing games with my son, or taking our [Golden/Shepherd mix pup Zelda](https://www.instagram.com/zeldavavrik/) on hike.
 
 **Difficult Problems**
 

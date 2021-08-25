@@ -19,6 +19,10 @@ Several years into my career, I started to get familiar with BDD, Behavior Drive
 
 For me, this was a career changing discovery. While Unit Testing, UI Testing, and Integration Testing have always been powerful tools in my toolbox, it always felt like something was missing. 
 
+BDD is the cross section of Unit, UI, and Integration Testing
+
+
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

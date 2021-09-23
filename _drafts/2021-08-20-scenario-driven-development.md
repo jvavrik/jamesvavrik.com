@@ -10,6 +10,7 @@ My software engineering journey started out creating a test automation framework
 Several years into my career, I started to get familiar with BDD, Behavior Driven Development. I implemented a BDD pattern for the first time while I was on a project for an international retailer. Our setup was typical BDD flair:
 
 
+
 **User Story/Feature**
  - **Scenario** 1  
     - **Given** the conext     
@@ -20,6 +21,10 @@ Several years into my career, I started to get familiar with BDD, Behavior Drive
 For me, this was a career changing discovery. While Unit Testing, UI Testing, and Integration Testing have always been powerful tools in my toolbox, it always felt like something was missing. 
 
 BDD is the cross section of Unit, UI, and Integration Testing
+
+
+
+
 
 
 
